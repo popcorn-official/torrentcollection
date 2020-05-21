@@ -1,0 +1,21 @@
+
+{
+  "name": "torrentcollection2",
+  "version": "0.0.8",
+  "description": "TorrentCollection for Popcorn Time",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/team-pct/TorrentCollection"
+  },
+  "bugs": {
+   "url": "https://github.com/team-pct/TorrentCollection/issues"
+ },
+  "contributors": {
+    "name": "Popcorn Time"
+},
+  "dependencies": {
+    "thepiratebay": "1.4.7",
+    "torrentapi-wrapper2": "0.0.3",
+    "xtorrent": "1.0.0"
+  }
+}
